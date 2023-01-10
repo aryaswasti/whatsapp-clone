@@ -1,0 +1,19 @@
+.messageBoxContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #202C33;
+}
+
+.messageBox{
+    width: 100%;
+    margin: 0.75em;
+    padding: 1em;
+    border-radius: 0.6em;
+    background: #2A3942;
+    border: 0;
+    font-size: 0.85em;
+    outline-width: 0;
+    color: #D1D7DB;
+}

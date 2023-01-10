@@ -1,0 +1,23 @@
+.chatWindow{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+.chats {
+    background: #0B141A;
+    height: 100%;
+    width: 100%;
+}
+
+.receiver{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.sender{
+    width: 100%;
+}
